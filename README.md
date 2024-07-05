@@ -6,7 +6,7 @@ Undergraduate at Informatics Institute of Technology(IIT Colombo)
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [paranitharanparaani13@gmail.com](mailto:paranitharanparaani13@gmail.com)
-* 🧠  I'm learning ReactJS Java TailwindCSS
+* 🧠  I'm learning ReactJS JavaScript TailwindCSS
 
 ### Skills
 
