@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Paranitharan and I'm a Software Engineering Undergraduate, from IIT (Colombo)</h2>
+<h2 align="left">Hi 👋! My name is Paranitharan and I'm a SE Undergraduate, from IIT (Colombo)</h2>
 
 ###
 
