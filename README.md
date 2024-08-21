@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Parani2002/laravel-mydynamica-2024/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Parani2002/laravel-mydynamica-2024/output/snake.svg" alt="Animated snake graphic" />
+
 
 ###
