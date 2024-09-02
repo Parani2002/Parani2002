@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel 11 , Bootstrap , ReactJS , TailwindCSS<br>🌱 I’m currently learning .NET , ASP .NET Core and Flutter<br>💬 Ask me about web development<br>⚡ Fun fact
+🔭 I’m currently working on Laravel 11 , Bootstrap , ReactJS , TailwindCSS<br>🌱 I’m currently learning .NET , ASP .NET Core and Flutter<br>💬 Ask me about web development<br>
 
 
 ## 🌐 Socials:
