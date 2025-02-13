@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel,Livewire,ReactJS,NodeJS and .NET Framework.<br>👯 I’m looking to collaborate on Laravel and React projects.<br>🌱 I’m currently learning ExpressJS and API Development.<br>💬 Ask me about Laravel MVC and Javascript.<br>
+🔭 I’m currently working on Laravel, Livewire, ReactJS, NodeJS and .NET Framework.<br>👯 I’m looking to collaborate on Laravel and React projects.<br>🌱 I’m currently learning ExpressJS, API Development and Springboot.<br>💬 Ask me about Laravel MVC and Javascript.<br>
 
 
 # 💻 Tech Stack:
